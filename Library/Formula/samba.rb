@@ -3,7 +3,7 @@ require 'formula'
 class Samba < Formula
   url 'http://samba.org/samba/ftp/stable/samba-3.6.3.tar.gz'
   homepage 'http://samba.org/'
-  md5 '98ac9db9f4b6ebfc3f013aa193ffb0d1'
+  sha1 '98ac9db9f4b6ebfc3f013aa193ffb0d1'
 
   def patches
     DATA
